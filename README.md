@@ -158,5 +158,15 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+## Respository Notes
+
+* Deployed Link - https://aidev13.github.io/horiseon-challenge/
+* Repo Link - https://github.com/aidev13/horiseon-challenge/
+> Desciption: The following has been updated in attempt to correct the previous errors mention by the Central Grader: 
+* Application's CSS file contains no comments 
+* Code doesn't follow good practices for class/id names, indentation, lacks quality comments 
+* Repo doesn't contain multiple descriptive commit messages 
+* Repository README is missing 2 of the following: description, screenshot, or link to deployed application. If you need additional help remember to reach out to your instructional staff and tutors. They can help you with anything you need regarding this assignment.
+
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
